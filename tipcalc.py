@@ -6,4 +6,4 @@ def tipcalc(num1, num2):
 number1 = float(input('enter the total amount '))
 number2 = float(input('enter the tip percentage as a decimal '))
 #call the function and print result
-print("the total is $" + str(tipcalc(number1,number2)))
+print("the tip amount is $" + str(tipcalc(number1,number2)))
